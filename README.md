@@ -112,6 +112,15 @@ Configuration can be modified in `src/main/resources/application.properties`:
 Environment variables can be set in `.env` files:
 - API endpoints
 - Development/production modes
+### Output
+
+![Screenshot 2025-04-25 180420](https://github.com/user-attachments/assets/b29135e6-684f-4511-b262-f48d9cea03b1)
+![Screenshot 2025-04-25 180433](https://github.com/user-attachments/assets/8867903e-f3ff-4710-a10e-4af6959853f9)
+![Screenshot 2025-04-25 180449](https://github.com/user-attachments/assets/90a13c81-0795-433a-a10e-238b3375a962)
+![Screenshot 2025-04-25 180506](https://github.com/user-attachments/assets/b4341081-04a7-4591-b26a-d777af29b8ff)
+![Screenshot 2025-04-25 180514](https://github.com/user-attachments/assets/4501cde2-a47b-494b-9130-e30a32221a7e)
+
+
 
 ## Author
 Mohit Saxena
