@@ -1,11 +1,20 @@
-# API Challenge Solution
+### Social Network Graph Analysis Tool
 
-A comprehensive solution for the API challenge, implemented using both Spring Boot (backend) and React + TypeScript (frontend).
+A sophisticated application for analyzing and visualizing social network relationships, developed by Mohit Saxena.
 
-## Project Structure
+## Overview
 
-The project consists of two main components:
+This tool solves two fundamental social network analysis problems:
 
+1. **Mutual Connections Detection**
+   - Identifies pairs of users who follow each other
+   - Visualizes mutual relationships in real-time
+   - Optimizes detection using efficient graph algorithms
+
+2. **N-th Degree Connection Analysis**
+   - Finds all users exactly N steps away in the network
+   - Maps complex relationship chains
+   - Provides visual representation of connection levels
 ### 1. Backend (Spring Boot)
 
 Located in `src/main/java/com/example/apichallenge`, the Spring Boot application handles:
